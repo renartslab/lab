@@ -1,0 +1,12 @@
+h1 {
+    font-size:10px;
+}
+
+h2 {
+    font-size:30px;
+    color:red;
+}
+
+h1,h2 {
+    text-align:center;
+}
